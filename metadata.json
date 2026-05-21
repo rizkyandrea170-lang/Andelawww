@@ -1,0 +1,6 @@
+{
+  "name": "Workshop MR System",
+  "description": "Material Request (MR), approval, and PR tracking system for plant/workshop mechanics, logistics, supervisors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
